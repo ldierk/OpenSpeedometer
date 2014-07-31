@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="Soure Files" pattern="file[app]:src//*.java||file[app]:src//*.xml" />
+</component>

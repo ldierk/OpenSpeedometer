@@ -1,0 +1,11 @@
+<component name="CopyrightManager">
+  <settings default="GPL">
+    <module2copyright>
+      <element module="Soure Files" copyright="GPL" />
+    </module2copyright>
+    <LanguageOptions name="XML">
+      <option name="fileTypeOverride" value="3" />
+      <option name="prefixLines" value="false" />
+    </LanguageOptions>
+  </settings>
+</component>
